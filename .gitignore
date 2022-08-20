@@ -1,0 +1,17 @@
+# Data source folder
+Data/
+
+# Tuner saved models
+Hp_tuner_visual/
+Hp_tuner_audio/
+Hp_tuner_multi/
+
+# Saved models
+LSTM_train_visual/
+LSTM_train_audio/
+LSTM_train_multimodal/
+TCN_Tuner_Multi/
+TCN_Tuner_Visual/
+TCN_Tuner_Audio/
+
+
